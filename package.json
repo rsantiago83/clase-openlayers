@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-clase",
+  "version": "1.0.0",
+  "description": "Proyecto didactico para la creacion de mapas con openlayers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mapa",
+    "Clases",
+    "Openlayers",
+    "Alumnos"
+  ],
+  "author": "Ramiro Ernesto Santiago Barzaga",
+  "license": "ISC",
+  "dependencies": {
+    "ol": "^6.4.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
